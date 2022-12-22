@@ -12,10 +12,4 @@ pandas for loading the dataframes
 matplotlib-for visualizing the features i.e.barplot
 numpy for solving algebra related problem
 sklearn for model building
-Steps
-1.Data Cleaning
-2.Feature Engineering
-3.outlier Detection and removal
-4.one hot encoding
-4.grtidsearchcv
-5.Dimensionality reduction
+
